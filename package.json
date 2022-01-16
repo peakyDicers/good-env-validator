@@ -1,6 +1,6 @@
 {
   "name": "@peakydicers/good-env-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validate your environment variables like a king.",
   "main": "index.js",
   "scripts": {
