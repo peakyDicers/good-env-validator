@@ -1,9 +1,14 @@
 {
-  "name": "good-env-validator",
+  "name": "@peakydicers/good-env-validator",
   "version": "1.0.0",
   "description": "Validate your environment variables like a king.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "typings": "index.d.ts",
   "author": "peakyDicers",
   "license": "MIT"
