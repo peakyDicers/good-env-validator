@@ -11,5 +11,18 @@
   },
   "typings": "index.d.ts",
   "author": "peakyDicers",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peakyDicers/good-env-validator"
+  },
+  "keywords": [
+    "dotenv",
+    "env",
+    ".env",
+    "environment",
+    "variables",
+    "config",
+    "settings"
+  ]
 }
